@@ -49,8 +49,9 @@ In my case i have a `Galaxy Tab S9+ FE (WiFi)`. and this methode worked for me.
   - visit a repair shop.
 
 ## Disclaimer
-This process may void your warranty (due you to flashing a wrong frimware) or result in data loss. Proceed at your own risk.
+This process may void your warranty (if you flash wrong or un-official firmware) - Proceed at your own risk.
+This process may result in data loss - Proceed at your own risk.
 
 ## Credits
-- Samsung Odin tool developers
+- Samsung [Odin tool](https://odindownload.com/) developers
 - [SamFW](https://samfw.com/) for firmware downloads
