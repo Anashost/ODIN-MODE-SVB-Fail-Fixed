@@ -18,7 +18,7 @@ This guide will help you fix it.
 In my case i have a `Galaxy Tab S9+ FE (WiFi)`. and this methode worked for me.
 
 ## Requirements
-- [Odin software](https://odindownload.com/) (Version 3.13.1 recommended).
+- [Odin software](https://odindownload.com/) (Latest version 3.14.4 worked fine for me).
 - Install [Android USB drivers](https://developer.samsung.com/android-usb-driver) on your computer.
 - Download the latest firmware for your device from [SamFW](https://samfw.com/).
   - **Ensure you download the correct firmware** for your country and device type (4G, 5G, WiFi, etc.).
@@ -29,6 +29,11 @@ In my case i have a `Galaxy Tab S9+ FE (WiFi)`. and this methode worked for me.
   So Choose the right frimware for your device **wisely**.
 
 ## Steps to Fix ODIN MODE (SVB Fail)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ccceb98d-72e8-4b79-a44b-07869ea175db" width="400">
+</p>
+
 1. **Install** Android USB drivers and restart your computer.
 2. **Open Odin**, then connect your device to the computer using a USB data cable.
    - Odin should recognize it as `COM [number]`.
