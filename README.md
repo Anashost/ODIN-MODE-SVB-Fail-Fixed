@@ -2,6 +2,15 @@
 
 Is your Samsung Galaxy device stuck at `ODIN MODE (SVB Fail)!` blue screen after a software update? Are you stuck in a power loop with no access to recovery mode?
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e5b3e5b-9faa-4af6-92ac-e33cdd8f1c43" width="400">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fda282ec-258a-49b5-8636-665a97db197b" width="250">
+</p>
+
+
 This guide will help you fix it.
 
 (This guide is **only** meant for people having this exact issue).
